@@ -1,6 +1,6 @@
 ---
 layout: "../../layouts/BlogPost.astro"
-title: "First post"
+title: "First post  (edited)"
 description: "First post description"
 pubDate: "Jul 08 2022"
 heroImage: "/placeholder-hero.jpg"
